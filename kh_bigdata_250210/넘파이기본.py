@@ -118,7 +118,7 @@ for row in matrix:
     print(row)
 
 # 강사 답변
-arr7 = np.arange(1.10).reshape(3, 3)
+arr7 = np.arange(1,10).reshape(3, 3)
 print(arr7)
 
 
